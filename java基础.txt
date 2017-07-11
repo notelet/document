@@ -1,5 +1,0 @@
-## Shiro
-  [Apache Shiro 权限控制实战，权限控制Demo，SpringMVC + Mybatis + Shiro ](http://www.sojson.com/shiro)
-  [将 Shiro 作为应用的权限基础](http://blog.csdn.net/tch918/article/details/13506275)
-## jetty
-  [Eclipse下通过Maven的Jetty插件运行Web工程的配置，包括启动https](https://my.oschina.net/cokolin/blog/409164)
